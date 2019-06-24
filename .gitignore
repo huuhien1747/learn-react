@@ -1,0 +1,4 @@
+## ignore file or folder dont wan to push to github
+*node_modules/*
+#my-app: first app use create-react-app js library to gen
+
